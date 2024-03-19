@@ -1,6 +1,6 @@
 # west-lyrics-generator
 
-This project aims to try and generate rap lyrics by emulating Kanye West's music by using two seperate text generation models. The first model to be used is the Bigram Language Model, and the second language model to be used is the GPT 1.0 model outlined in the paper  [Attention Is All You Need](https://pastebin.com/qXMZ2bst) 
+This project aims to try and generate rap lyrics by emulating Kanye West's music by using two seperate text generation models. The first model to be used is the [Bigram Language Model](https://pastebin.com/vxGwbqiH) , and the second language model to be used is the GPT 1.0 model outlined in the paper  [Attention Is All You Need](https://pastebin.com/qXMZ2bst) 
 
 ### conceptual comparison of both the models 
 
