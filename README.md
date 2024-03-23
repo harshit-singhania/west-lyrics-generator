@@ -24,7 +24,6 @@ The data being used is obtained from [HuggingFace](https://huggingface.co/datase
 3. BLEU score: 0.007629888802746765
 4. ROUGE score: 0.042884985975856244
 5. WER: 0.989
-6. 
 
 
 
